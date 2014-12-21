@@ -6,7 +6,7 @@ Cherryade is a lightweight PHP templating engine developed by Cherryade.co.
 
 Clone the Cherryade repo:
 ```
-git clone https://github.com/cherryade/cherryade.git.
+git clone https://github.com/cherryade/cherryade.git
 ```
 Place the files on your server, and then edit cherryade/cherryade.config.php to your liking.
 
