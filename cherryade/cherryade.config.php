@@ -19,5 +19,7 @@ $templateDir = 'templates/';
  * output 'Cherryade', as defined below.
  */
 $templateVariables = array('sitename' => 'Cherryade',
-						   'sitepath' => 'http://www.cherryade.co'
+						   'sitepath' => 'http://www.cherryade.co',
+						   'header' => file_get_contents('templates/header.html'),
+						   'footer' => file_get_contents('templates/footer.html')
 						   );
